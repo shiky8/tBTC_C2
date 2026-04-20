@@ -1,0 +1,5 @@
+requests
+python-bitcoinlib
+ecdsa
+base58
+pycryptodome
